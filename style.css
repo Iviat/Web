@@ -1,0 +1,72 @@
+
+*
+{
+    color:rgb(219, 219, 219);
+    text-decoration: none;
+    font-size: 20px;
+}
+aside
+{ 
+    display: flex;
+    align-items: center;
+    justify-content:space-around;
+    flex-wrap: nowrap;
+    gap: 10px;
+}
+.inicio
+{
+    display: flex;
+    align-items:center;
+    justify-content: center;
+    gap: 10px;
+}
+
+body
+{
+    background-color:rgb(58, 58, 58);
+    margin: 50px;
+}
+
+main
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-left: 20%;
+    margin-right: 20%;
+    
+}
+
+#cert
+{
+    background-color: white;
+    border-radius: 5px;
+    max-block-size: 240px;
+    max-inline-size: 150px;
+}
+
+.enlace
+{
+    margin: 5px;
+    font-weight: 600;
+}
+
+
+.nombre
+{
+    font-size: 25px;
+    font-weight: 800;
+}
+
+.title
+{
+    display: flex;
+    justify-content: center;
+}
+
+p
+{
+    text-align: center;
+    vertical-align: middle;
+}
